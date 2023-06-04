@@ -1,7 +1,7 @@
 # Aplicación de Arriendos Universitarios
 
 <p align="center">
-  <img src="ruta/imagen.png" alt="Icono de la apicación">
+  <img src="ic_round-home-hdpi.png" alt="Icono de la apicación">
 </p>
 
 Esta es una aplicación desarrollada en Android Studio que permite a los estudiantes universitarios encontrar arriendos cerca de sus universidades a precios asequibles. La aplicación utiliza tecnología de geolocalización para mostrar opciones de arriendo disponibles en la zona seleccionada.
